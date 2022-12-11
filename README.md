@@ -10,6 +10,10 @@
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
+<div>
+  <img align="center" alt="gif profile card" width="1000px" src="https://github.com/AnaProgramando/profile_card/blob/d2669a119eb99cace01fa762a23d7492552388c5/Profile%20Card%20-%20Ana%20Valentim.gif"/>
+</div>
+
 # 🤗 Welcome
 
 Olá, seja muito bem vinda(o)! 
