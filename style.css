@@ -128,8 +128,6 @@ body {
     cursor: pointer;
 }
 
-.card .content .details .btnAction button:nth-child(2) {
-    border: 1px solid #999;
-    color: #999;
-    background: #fff;
+.card .content .details .btnAction button:hover {
+    background: #6d00db;
 }
